@@ -1,7 +1,7 @@
-# Dynamic Maze Explorer
-
-CDS524 Assignment 1 - Reinforcement Learning Game Design  
+# Dynamic Maze Explorer: A Maze Navigation Game Based on Deep Q-Learning
+  
 **Author**: ZHANG Chuyue  
+**YouTube**:https://youtu.be/0_h6cyYHTCM
 
 ## AI Mode Demo (Dynamic Gameplay)
 
@@ -21,7 +21,7 @@ Dynamic Maze Explorer is a maze navigation game where an agent learns to reach t
 
 ## Technology Stack
 
-- Python 3.9+
+- Python 3.9.7
 - PyTorch (DQN model and training)
 - Pygame (game rendering and interaction)
 - NumPy (grid and state handling)
