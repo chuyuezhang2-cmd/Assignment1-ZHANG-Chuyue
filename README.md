@@ -1,8 +1,7 @@
 # Dynamic Maze Explorer
 
 CDS524 Assignment 1 - Reinforcement Learning Game Design  
-**Author**: Joey  
-**Date**: March 2026  
+**Author**: ZHANG Chuyue  
 
 ## Project Overview
 
