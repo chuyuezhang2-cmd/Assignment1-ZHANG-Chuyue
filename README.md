@@ -25,3 +25,9 @@ Dynamic Maze Explorer is a maze navigation game where an agent learns to reach t
 
 ```bash
 pip install pygame torch numpy
+
+## AI Mode Demo (Dynamic Gameplay)
+
+<image-card alt="AI Mode Gameplay" src="demo.gif" ></image-card>
+
+*AI agent navigating the maze, collecting yellow coins, avoiding red traps, and reaching the green goal.*
