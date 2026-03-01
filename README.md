@@ -3,6 +3,13 @@
 CDS524 Assignment 1 - Reinforcement Learning Game Design  
 **Author**: ZHANG Chuyue  
 
+## AI Mode Demo (Dynamic Gameplay)
+
+<div align="center">
+  <img src="demo.gif" alt="AI Mode Gameplay" width="500">
+  <p><em>AI agent navigating the maze in real-time (looping)</em></p>
+</div>
+
 ## Project Overview
 
 Dynamic Maze Explorer is a maze navigation game where an agent learns to reach the green goal while collecting yellow coins and avoiding moving red traps using Deep Q-Network (DQN), an advanced form of Q-Learning.
@@ -26,8 +33,4 @@ Dynamic Maze Explorer is a maze navigation game where an agent learns to reach t
 ```bash
 pip install pygame torch numpy
 
-## AI Mode Demo (Dynamic Gameplay)
 
-<image-card alt="AI Mode Gameplay" src="demo.gif" ></image-card>
-
-*AI agent navigating the maze, collecting yellow coins, avoiding red traps, and reaching the green goal.*
