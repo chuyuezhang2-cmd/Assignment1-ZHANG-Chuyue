@@ -1,7 +1,9 @@
 # Dynamic Maze Explorer: A Maze Navigation Game Based on Deep Q-Learning
   
 **Author**: ZHANG Chuyue  
-**YouTube**:https://youtu.be/0_h6cyYHTCM
+**YouTube**: https://youtu.be/0_h6cyYHTCM
+**GitHub**: https://github.com/chuyuezhang2-cmd/Assignment1-ZHANG-Chuyue
+
 
 ## AI Mode Demo (Dynamic Gameplay)
 
@@ -28,9 +30,33 @@ Dynamic Maze Explorer is a maze navigation game where an agent learns to reach t
 
 ## How to Run
 
-### 1. Install Dependencies
+Follow these steps to get the game running on your machine.
+
+### 1. Clone the Repository (if running from GitHub)
 
 ```bash
+git clone https://github.com/chuyuezhang2-cmd/Assignment1-ZHANG-Chuyue.git
+cd Assignment1-ZHANG-Chuyue
+# Create virtual environment
+python -m venv venv
+
+# Activate on Windows
+venv\Scripts\activate
+
+# Activate on macOS/Linux
+source venv/bin/activate
+
 pip install pygame torch numpy
+
+python main.py
+
+Welcome to Dynamic Maze Explorer!
+1: Training model (run train.py)
+2: Playing game (run play.py)
+3: Exit
+Your choice:
+
+python main.py
+# Choose 1: Training model
 
 
