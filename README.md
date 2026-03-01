@@ -1,9 +1,10 @@
 # Dynamic Maze Explorer: A Maze Navigation Game Based on Deep Q-Learning
   
-**Author**: ZHANG Chuyue  
-**YouTube**: https://youtu.be/0_h6cyYHTCM
-**GitHub**: https://github.com/chuyuezhang2-cmd/Assignment1-ZHANG-Chuyue
+**Author**: ZHANG Chuyue
 
+**YouTube**: https://youtu.be/0_h6cyYHTCM
+
+**GitHub**: https://github.com/chuyuezhang2-cmd/Assignment1-ZHANG-Chuyue
 
 ## AI Mode Demo (Dynamic Gameplay)
 
